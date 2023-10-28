@@ -1,0 +1,25 @@
+1. justify-content : The `justify-content` property in CSS Flexbox is used to control the alignment and 
+distribution of flex items along the main axis of a flex container. It allows you to specify how the available 
+space should be distributed between or around the flex items, adjusting their positioning within the container. 
+Common values include `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, and `space-evenly`, 
+each affecting the arrangement of items differently along the main axis.
+
+2. align-items : The `align-items` property in CSS Flexbox is used to control the alignment of flex items along 
+the cross axis of a flex container. It allows you to specify how flex items should be aligned vertically
+(in a row) or horizontally (in a column) within the container. Common values include `flex-start`, `flex-end`,
+ `center`, `baseline`, and `stretch`, each affecting the vertical alignment of items within the container.
+
+3. gap : In CSS Flexbox, the `gap` property (or its older counterpart, `gap`) is used to specify the space 
+between flex items in a flex container. It controls the gap between items along the main axis and the cross axis.
+This property simplifies the process of adding space between items, making layout design more efficient.
+
+4. flex-direction : In CSS Flexbox, `flex-direction` is a property used to define the direction in which flex 
+items are arranged within a flex container. It can be set to values like `row` (horizontally left to right), 
+`row-reverse` (horizontally right to left), `column` (vertically top to bottom), or `column-reverse` 
+(vertically bottom to top), determining the main axis direction of the layout.
+
+5. flex-wrap : In CSS Flexbox, `flex-wrap` is a property that controls whether flex items should wrap to the next
+ line when they can't fit within the width of the flex container. It can have values like `nowrap` (no wrapping),
+`wrap` (wrap to the next line if needed), or `wrap-reverse` (wrap to the next line in reverse order). This 
+property determines how flex items handle overflow within the container.
+
